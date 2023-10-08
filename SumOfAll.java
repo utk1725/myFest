@@ -7,6 +7,6 @@ ublic class SumOfArray {
         for (int i = 0; i < arr.length; i++) {  
            sum = sum + arr[i];  
         }  
-        System.out.println("Sum of all the elements of an array: " + sum);  
+        System.out.println("Sum of all the elements of an array: " + sum);  //This one was simple tring doing it in different layers.
     }  
 }  
